@@ -1,4 +1,4 @@
-## Startsite of FlameFM
+# Startsite of FlameFM
 ![FlameFM](/imgs/Noah.gif)
 
 
@@ -31,5 +31,5 @@ Syntax highlighted code block
 [CapuzAPI.jar](/CapuzAPI.jar)
 
 
-### FlameFM Jars
+# FlameFM Jars
 [FlameFM-Charts.jar](/jars/FlameFM-Charts.jar "FlameFM Charts")
