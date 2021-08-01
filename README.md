@@ -31,5 +31,5 @@ Syntax highlighted code block
 [CapuzAPI.jar](/CapuzAPI.jar)
 
 
-### Server Jars
-[Purpur.jar](/jars/MyPvP.jar)
+### FlameFM Jars
+[FlameFM-Charts.jar](/jars/FlameFM-Charts.jar "FlameFM Charts")
